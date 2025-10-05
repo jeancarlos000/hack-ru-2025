@@ -31,7 +31,7 @@ a {
   justify-content: space-between;
   align-items: center;
   padding: 1rem 2rem;
-  background-color: #333;
+  background-color: #2c5f6f;
   color: #fff;
 }
 
@@ -63,7 +63,7 @@ a {
 }
 
 .hero {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #ff6b6b 0%, #ee5a6f 50%, #f4a261 100%);
   color: white;
   padding: 6rem 2rem;
   text-align: center;
@@ -97,7 +97,7 @@ a {
 
 .primary-button {
   background-color: white;
-  color: #667eea;
+  color: #e76f51;
   padding: 1rem 2rem;
   font-size: 1.1rem;
   font-weight: bold;
@@ -131,14 +131,14 @@ a {
 
 .features {
   padding: 5rem 2rem;
-  background-color: #f7fafc;
+  background-color: #fef6f0;
 }
 
 .section-title {
   font-size: 2.5rem;
   text-align: center;
   margin-bottom: 3rem;
-  color: #2d3748;
+  color: #264653;
 }
 
 .feature-grid {
@@ -171,11 +171,11 @@ a {
 .feature-title {
   font-size: 1.5rem;
   margin-bottom: 1rem;
-  color: #2d3748;
+  color: #264653;
 }
 
 .feature-text {
-  color: #718096;
+  color: #5a6c7d;
   line-height: 1.6;
 }
 
@@ -184,7 +184,7 @@ a {
   justify-content: space-around;
   flex-wrap: wrap;
   padding: 4rem 2rem;
-  background-color: #667eea;
+  background-color: #2a9d8f;
   color: white;
   gap: 2rem;
 }
@@ -213,12 +213,12 @@ a {
 .cta-title {
   font-size: 2.5rem;
   margin-bottom: 1rem;
-  color: #2d3748;
+  color: #264653;
 }
 
 .cta-text {
   font-size: 1.25rem;
-  color: #718096;
+  color: #5a6c7d;
   margin-bottom: 2rem;
 }
 
@@ -236,7 +236,7 @@ a {
 .opportunities-container {
   width: 100%;
   min-height: 100vh;
-  background-color: #f7fafc;
+  background-color: #fef6f0;
 }
 
 .loading-message,
@@ -254,7 +254,7 @@ a {
 }
 
 .opportunities-header {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #2a9d8f 0%, #264653 100%);
   color: white;
   padding: 4rem 2rem 3rem;
   text-align: center;
@@ -292,7 +292,7 @@ a {
 }
 
 .search-input:focus {
-  outline: 2px solid #667eea;
+  outline: 2px solid #2a9d8f;
 }
 
 .filter-select {
@@ -306,7 +306,7 @@ a {
 }
 
 .filter-select:focus {
-  outline: 2px solid #667eea;
+  outline: 2px solid #2a9d8f;
 }
 
 .opportunities-grid {
@@ -335,7 +335,7 @@ a {
 
 .opportunity-category {
   display: inline-block;
-  background-color: #667eea;
+  background-color: #e76f51;
   color: white;
   padding: 0.25rem 0.75rem;
   border-radius: 20px;
@@ -347,12 +347,12 @@ a {
 
 .opportunity-title {
   font-size: 1.5rem;
-  color: #2d3748;
+  color: #264653;
   margin-bottom: 0.5rem;
 }
 
 .opportunity-organization {
-  color: #667eea;
+  color: #2a9d8f;
   font-weight: 600;
   margin-bottom: 1rem;
 }
@@ -379,15 +379,15 @@ a {
 }
 
 .opportunity-summary {
-  background-color: #f0f4ff;
-  border-left: 4px solid #667eea;
+  background-color: #e8f4f3;
+  border-left: 4px solid #2a9d8f;
   padding: 1rem;
   margin: 1rem 0;
   border-radius: 4px;
 }
 
 .opportunity-summary strong {
-  color: #667eea;
+  color: #2a9d8f;
   display: block;
   margin-bottom: 0.5rem;
 }
@@ -406,7 +406,7 @@ a {
 }
 
 .summarize-button {
-  background-color: #48bb78;
+  background-color: #f4a261;
   color: white;
   padding: 0.75rem 1.5rem;
   border: none;
@@ -420,7 +420,7 @@ a {
 }
 
 .summarize-button:hover:not(:disabled) {
-  background-color: #38a169;
+  background-color: #e89350;
 }
 
 .summarize-button:disabled {
@@ -429,7 +429,7 @@ a {
 }
 
 .opportunity-button {
-  background-color: #667eea;
+  background-color: #2a9d8f;
   color: white;
   padding: 0.75rem 1.5rem;
   border: none;
@@ -445,7 +445,7 @@ a {
 }
 
 .opportunity-button:hover {
-  background-color: #5568d3;
+  background-color: #238b7e;
 }
 
 .no-opportunities {
